@@ -10,8 +10,3 @@ alias
 setenv
 unsetenv
 env
-other features:
-
-&& and || logical operators
-semicolon separator
-limited variable expansion
